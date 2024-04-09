@@ -1,2 +1,2 @@
 # first_demo
-demo, making my hands dirty
+demo, making my hands dirty to know how git works
